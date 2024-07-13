@@ -7,7 +7,7 @@
 
   NETFLIX is a responsive  website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://adipto18.github.io/Restaurant_website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://moviewebsite-adipto-das-projects.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
